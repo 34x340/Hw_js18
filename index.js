@@ -29,7 +29,7 @@ const images = [
     },
     {
      url:
-      'https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      'https://static.wikia.nocookie.net/disney/images/1/10/Profile_-_Lightning_McQueen.png/revision/latest?cb=20221003093816',
      alt: 'MCQUEEN',
     },
     {
